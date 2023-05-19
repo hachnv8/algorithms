@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/algorithms-workspace.iml" filepath="$PROJECT_DIR$/algorithms-workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-on2/sort-on2.iml" filepath="$PROJECT_DIR$/sort-on2/sort-on2.iml" />
     </modules>
   </component>
 </project>
